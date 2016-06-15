@@ -1,0 +1,17 @@
+{
+  "name": "language-Rave",
+  "version": "0.0.0",
+  "description": "Rave language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bergmam/Rave-Atom-Plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bergmam/Rave-Atom-Plugin/issues"
+  },
+  "license": "none"
+}
