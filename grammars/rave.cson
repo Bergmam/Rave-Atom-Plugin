@@ -1,0 +1,23 @@
+'scopeName': 'source.rave'
+'name': 'Rave'
+#'fileTypes': ['ext1', 'ext2']
+
+'patterns': [
+
+  # Data types: Ints, bools, strings, reltime, abstime, enum
+  # Keywords: arrival, departure, to, iterator, end
+  # Operators: */+-=><<=>= is not and or
+  # if then else
+  #
+    {
+        'match': '^\\d+$'
+        'name': 'constant.integer.rave'
+    },
+    {
+        # Second rule
+    },
+    # …
+    {
+        # Last rule
+    }
+]
